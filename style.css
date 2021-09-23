@@ -1,3 +1,20 @@
+<<<<<<< HEAD
 .h1 {
 
+=======
+.header {
+	text-align: center;
+	color: blue;
+	font-family: Arial;
+}
+
+.cos {
+	text-align: left;
+	color: green;
+}
+
+.footer {
+	text-align: right;
+	font-style: italic;
+>>>>>>> brancaEstil
 }
