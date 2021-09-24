@@ -1,20 +1,22 @@
-<<<<<<< HEAD
-.h1 {
 
-=======
-.header {
+.padel {
 	text-align: center;
 	color: blue;
 	font-family: Arial;
 }
 
-.cos {
+.futbol {
 	text-align: left;
 	color: green;
 }
 
-.footer {
+.dormir {
 	text-align: right;
 	font-style: italic;
->>>>>>> brancaEstil
 }
+
+.practiques {
+	text-align: left; 
+	color: yellow;
+}
+
