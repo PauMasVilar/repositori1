@@ -1,4 +1,33 @@
 * {
 	padding: 10;
+<<<<<<< HEAD
 	margin: 10;
 }
+=======
+	margin: 10,
+}
+
+body {
+	background: lightblue;
+}
+
+img {
+	float: left; 
+	width: 200px;
+	height: 130px;
+	padding: 10px;
+}
+
+.article {
+	height: 130px;
+	width: 400px;
+}
+
+p {
+	padding: 10px;
+}
+
+cos {
+	display: table;
+}
+>>>>>>> brancaEstructura
