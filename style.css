@@ -1,22 +1,4 @@
-
-.padel {
-	text-align: center;
-	color: blue;
-	font-family: Arial;
+* {
+	padding: 10;
+	margin: 10;
 }
-
-.futbol {
-	text-align: left;
-	color: green;
-}
-
-.dormir {
-	text-align: right;
-	font-style: italic;
-}
-
-.practiques {
-	text-align: left; 
-	color: yellow;
-}
-
