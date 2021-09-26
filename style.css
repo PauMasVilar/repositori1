@@ -1,23 +1,28 @@
-
-/* .padel {
-	text-align: center;
-	color: blue;
-	font-family: Arial;
+* {
+	padding: 10;
+	margin: 10,
 }
 
-.futbol {
-	text-align: left;
-	color: green;
+body {
+	background: lightblue;
 }
 
-.dormir {
-	text-align: right;
-	font-style: italic;
+img {
+	float: left; 
+	width: 200px;
+	height: 130px;
+	padding: 10px;
 }
 
-.practiques {
-	text-align: left; 
-	color: yellow;
+.article {
+	height: 130px;
+	width: 400px;
 }
 
-*/
+p {
+	padding: 10px;
+}
+
+cos {
+	display: table;
+}
